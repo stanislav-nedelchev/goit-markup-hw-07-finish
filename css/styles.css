@@ -27,7 +27,7 @@
   src: url('../fonts/roboto-v30-latin-700.woff2') format('woff2');
 }
 
-/* ===== COMMON STYLES ===== */
+/* ===== Common styles ===== */
 ul,
 ol {
   list-style-type: none;
@@ -425,7 +425,7 @@ p {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url('../images/hero-bg-mobl.jpg');
+    url('../images/hero-bg-mobl.webp');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -453,7 +453,7 @@ p {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url('../images/hero-bg-mobl@2x.jpg');
+      url('../images/hero-bg-mobl@2x.webp');
   }
 }
 
@@ -466,7 +466,7 @@ p {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url('../images/hero-bg-tabl.jpg');
+      url('../images/hero-bg-tabl.webp');
   }
 
   .main-title {
@@ -483,7 +483,7 @@ p {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url('../images/hero-bg-tabl@2x.jpg');
+      url('../images/hero-bg-tabl@2x.webp');
   }
 }
 
@@ -496,7 +496,7 @@ p {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url('../images/hero-bg-desk.jpg');
+      url('../images/hero-bg-desk.webp');
   }
 
   .main-title {
@@ -513,7 +513,7 @@ p {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url('../images/hero-bg-desk@2x.jpg');
+      url('../images/hero-bg-desk@2x.webp');
   }
 }
 /* ===== Our advantages ===== */
